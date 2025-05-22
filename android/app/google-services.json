@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494786513469",
+    "project_id": "todoapptask-ae9cd",
+    "storage_bucket": "todoapptask-ae9cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494786513469:android:d1b77d23ba83cb6a3f3854",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_kabreet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmBhrNERoxgUtFOrn0hK27yxpODUcWvIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
