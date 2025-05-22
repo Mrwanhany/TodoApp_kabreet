@@ -1,16 +1,20 @@
-# todo_app_kabreet
+# 📋 Flutter Firebase ToDo App (with provider)
 
-A new Flutter project.
+## 🚀 Setup
 
-## Getting Started
+1. Clone the repo
+2. Run `flutter pub get`
+3. Add Firebase config files
+4. `flutterfire configure`
 
-This project is a starting point for a Flutter application.
+## 🔧 Firebase
 
-A few resources to get you started if this is your first Flutter project:
+- Enable Firestore
+- Enable Email/Password auth
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ State Management
+
+Implemented using `flutter_bloc` Cubit for authentication and ToDo state.
+
+
