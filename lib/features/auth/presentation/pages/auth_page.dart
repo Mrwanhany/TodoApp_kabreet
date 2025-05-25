@@ -68,6 +68,12 @@ class _LoginScreenState extends State<LoginScreen>
             backgroundColor: Colors.red,
           ),
         );
+      } else {
+        Navigator.of(context).pushReplacement(
+          MaterialPageRoute(
+            builder: (context) => const HomeScreen(),
+          ),
+        );
       }
     }
   }
